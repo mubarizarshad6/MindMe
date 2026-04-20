@@ -40,6 +40,3 @@ Each user message is sent to Groq with a system prompt that forces JSON output a
 
 Microphone, fine and background location, notifications, foreground service. Background location is required for geofencing to fire when the app is closed.
 
-### Author
-
-Tasawar Iqbal — [github.com/github6616](https://github.com/github6616)
